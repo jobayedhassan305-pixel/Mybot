@@ -1,0 +1,87 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Temporary Files
+# =========================
+temp/
+tmp/
+cache/
+downloads/
+
+# =========================
+# Output Files
+# =========================
+output/
+exports/
+*.mp4
+*.mp3
+*.wav
+*.aac
+*.flac
+*.srt
+*.vtt
+
+# =========================
+# AI Models
+# =========================
+models/
+checkpoints/
+weights/
+
+# Whisper Cache
+.whisper/
+
+# HuggingFace Cache
+.huggingface/
+.cache/
+hf_cache/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Render
+# =========================
+.render/
+
+# =========================
+# Database
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Misc
+# =========================
+*.zip
+*.tar
+*.gz
